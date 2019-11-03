@@ -15,16 +15,6 @@ export class CockpitComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    // Part of component lifecycle.
-    // Other parts of the lifecycle:
-    // ngOnChanges
-    // ngOnInit
-    // ngDoCheck
-    // ngAfterContentInit
-    // ngAfterContentChecked
-    // ngAfterViewInit
-    // ngAfterViewChecked
-    // ngOnDestroy
   }
 
   onAddServer(nameInput: HTMLInputElement) {
